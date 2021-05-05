@@ -1,3 +1,11 @@
-.lol {
-  display: block;
+.uB {
+  font-family: "ubuntu";
+  font-weight: 800;
+  color: white;
+}
+.uL {
+  font-family: "ubuntu";
+  font-weight: 400;
+  color: white;
+  font-style: italic;
 }
